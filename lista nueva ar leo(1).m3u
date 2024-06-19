@@ -1,0 +1,159 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1081" tvg-name="telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", telefe * | AR
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="1358" tvg-name="El Nueve" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3s_6HVNHusNLm3xMQO6-K_Iw4CtIvCyrhz6fdkGi&s", El Nueve | AR
+http://sdmx.vip:8080/Mark2023/Mark2023/210850
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png", TV Publica | AR
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png", TN * | AR
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700463306/ei/aq5aZdy2FNGC0_wPq9qYmAg/ip/74.249.14.240/id/LntzfRGrKlQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qlsn7s.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f8WBPBVxu7I4npzVRIgg8_Tslsz9-DPblsK25Q/vprv/1/playlist_type/DVR/initcwndbps/1637500/mh/Gb/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/m/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700441317/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgJyQoOpzXys8B_aBb_KH9RmVfXE1wSlDrrKp20_FgeIgCIGeeO7sLCWYQsAI94kGM2_gr-ven8AelrH3yScSjbEww/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgZ40rmJ4yS5N0zSv_gjjAeUh1S4Xaz68I3Scz_1nFeyoCIQCLKsF3P_Kc_bFOLA0EtUOyBJV8_g1hxWdRV3UPrN_Jrg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="1010" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV * | AR
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="1010" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America TV * | AR
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CsUEsNxVtQaLyUhPNZ7zZ-7AlGA1MghSc57vMcml5lSNYdHmpSB0Oc6fLY_QlTiqUHAhGUWgKep1xbl9b5i2xpfvtw3IZC0SYk4X8x8zO-eVU2YWRsVJjfjHxuiUTrqXDIBnsWT0T6t6Fr7IwJkN1Z0v0xDEAIUpzUj-is8peFFuEAsy41zLebzI4H3yeBcXYltXW94B5Y2j_5FI-MQvsRVhIV-thCwXiyeOQdKtPyTUA4iYnveHzhct1ixXqBu8hSV5DlmZvdd9jm5IpxQ1FPRTF6edjBSt7tL2mlDr5mglbK_7TY1Pk454BnRGxtkmiRdhZCuwctVFNTK5Zcuw5r410vWT5cjimX6QIN8ft4st37svWAD5QyVHC6xlGJbhwGaOYgJk1oYeBZsE3P_p8hQYTJjsCDi_DTDcGsbge811Zl4MIQPqms4aSFybiXwLjaSc6gtsZQTINDFO7zGHkwEe0PSLWqgS-3iXp1bvHvyVINQnpk9_P_B0C1SGs_yZ6hCYuRIYua-hbSbj9mKFlgk8QCRvhriTKmVJ4PnSGaFN-yi0_VBeYdBL_fEu0jk9uJp2HF_yzj78Zt_OjVZ8hYEOjI4fl1JDsd_CkgK-bqgsDm3DskEheDQxpYXwN18Z_TDbwvP_DKeD1qHk3SALvqPhdFF-B2hytGJuJuMbV3BOvSxdYqJBSMRng7Wvnzv218DMahjppUk0caaVqfpooHZVf6B46YEeKiOe2EzTWl_dxvRPCZJDjJc973Niq6KHzyhBCXz23VIaDAHzbGrjJ8-9bBmkzCABKgl1cy1lYXN0LTIwhAg.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+http://38.43.140.97:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+http://170.82.37.21:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+http://magi-stv.net:8080/LEO2023/Leo2023/10871
+#EXTINF:-1 tvg-id="494" tvg-name="SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE * | UY
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CscEk7I1hVhMDqbE2tBLmYeiQezFg8Dvih12QSV922hNW9bha4DC6_w3NT0Rs4VIWi3JQTpKELzWGWL_DI3cgH6OaB5l2uv_iCQ6Ez3iJmhb6snrTzeb7TeNfuJpwPgru36jdT1Lz4S3ZPp-rpzNFHL6RORIaWX6pIWynNSP4ZP6ZD3Z81sj-Aics9mHG2dlMNLOXxf-MVXROQCu3Q73KX8lA5sJ5s2SROCnXceZGixnwkUs1GzXi0vZcnCujwkUWeZs58wEHw6MYiH6Pz1hXCR3puM-9YLFgKhaMdOtr9OQlc7jjsnKYOoCogIHjh2NO5oHZFOVuHF1yYyZOPLSpYKy3Gv-mAeO3FZ2mFPb6UhkcRsyh0NN5Vqjt1QAseEL4lrpYEvvMN4AcIS-P74ty3o5I0uT-94ou1wlCpOm-Mk1tjF29S727ba8h517WjEY7WGh2NeFPz8SaQCLIxBPIbQFZIDJGhTRS7S4lqZXgl6qzHeNo0gBjrhXrxCHjdxMckrbY2swoCnBTB777H3VSavQmhg53tCvsPsL9I4dH2LoOBFTtgUpf0uI0pJy_JEyl0u-ZWjuU7CmFT8bH6n0-coZFtzDjCWRml-fu4mVz9RYOJCyY1M6Jt9vHCRE3CQ_cejkx68krAwLdI_EeQqoM-S6BegP9AVKF6VqBgYm6NfWX0d8FN_1lKfLaeXvvsj4nzC4gfMiASs6lNzPYu8FAO3Up50p9Ig2g2EZHxTsChArpHu321K8jwUUxTAfKBCSjLPqIydJrUZu4BoMtLFS1Qo1aBWQByXGIAEqCWV1LXdlc3QtMjCGCA.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
+http://magi-stv.net:8080/LEO2023/Leo2023/155176
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png", TNT | AR
+http://170.82.37.21:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", TNT SERIES | AR
+http://170.82.37.21:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL | AR
+http://170.82.37.21:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
+http://190.83.60.34:1414/play/a02f
+#EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
+http://170.82.37.21:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX | AR
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CsYEC85lQvaR2WvtRwrRNW3I-eqROAFJ_ahTvxGtY3_wpVO2KfqCufEzCKdBN2yQSvdBZcvaEvfPrhWu3fUNK_WLDDQca3euByHgyDjoMJpxA_lCiGm7gclJ-WlYZtnvCMHeIC1KjAKkbVQ-kxlHFIoTDxe8Y83dtkChdlqZK1DnUPR5wfD_L4yJ2MBphCQKXdohV2AXifFt_5It2fZ-15Ko52yovf-w-PgCDS3LUw1DMlPZO2wZ-lvAcVucc0blfSJ82fDsMkfPoDDjD3SeZMWC3lLVh221Si4ScogqfgRPttyElsf81aWJ3hGZGVk_NjXCxf_k1HtB7uY7MpZVbJCHtuTpu_uId4_l-zWfRmKKzL309ZR8TTn0sBWkl3FXG9so38xB2LZwmlBQarGj3ihKPa7FMa2XyoinUL8cDDE2SRJtENctUpzw3-h8fOx-XeFDVOrrkrhl8lcLoMhQ5QkXfidTxVlo1cHIBBuYXwziljz970LdRsyQc6keBulV0Sc7HmI1L7WIhIHvQTrWdLQ4nrKUf102etmuznANaUhN7mdyuxfGTxH2HxXkVLbYHuLRqFpHURI5iEbq-7apFPfZGQr1RAVb61rBGhNdIGh_f1qneGeC6QroIQbjS2qjuKeI6FpK1VyisUUOJhb7LQ_C-ZEcXi1pLkwCzKEcBN572oum3cWK7UZSDLLr55pMMNSqv6FW5iqnzP0a9YU01BrXJEOtSIZgdiTrmqlo67QefigXoUe2cfUEzQqLUCovHQNAx7Nw4yF9Ggxx0UkZcsVfUjwNjQEgASoJZXUtd2VzdC0yMIYI.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/579/384/png-transparent-cartoon-network-logo-cartoon-network-logo-television-animation-cartoon-network-television-angle-text-thumbnail.png", Cartoon Network | AR
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
+#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77026
+#EXTINF:-1 tvg-id="1003" tvg-name="Discovery Kids" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Discovery_kids_logo.png", Discovery Kids | AR
+http://38.43.140.97:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/186309
+#EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
+http://190.60.36.103:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/439758
+#EXTINF:-1 tvg-id="251" tvg-name="Discovery Kids" tvg-logo="https://img2.freepng.es/20180609/cz/kisspng-discovery-kids-discovery-hd-discovery-channel-tele-canal-brasil-5b1ba1a21cd889.6162529515285375061182.jpg", Discovery Kids | AR
+http://190.61.46.126:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://45.228.234.210:4000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75036
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/211238
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/439796
+#EXTINF:-1 tvg-id="207" tvg-name="DISNEY JR" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png", Disney jr | AR
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/439825
+#EXTINF:-1 tvg-id="1342" tvg-name="A24" tvg-logo="https://i.paste.pics/09d875300f8a37161b8e484e2d6f9652.png", A24 | AR
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="253" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png", ESPN HD | AR
+http://tv.masterplaytv.club:8080/5eddfgdWeRdGggr4545D/dfk3445jk45fdfFD45462DDD/166820
+#EXTINF:-1 tvg-id="1200" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png", ESPN 2 | AR
+http://38.43.140.97:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="1200" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png", ESPN 2 | AR
+http://190.60.36.103:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="ESPN 3  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/640px-ESPN3_Logo.png", ESPN 3 | AR
+http://190.60.36.103:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="1344" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/800px-ESPN_4_logo.svg.png", ESPN 4 | AR
+http://190.60.36.103:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-name="ESPN EXTRA" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png", ESPN EXTRA | AR
+http://201.218.137.232:4123/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", Canal 26 | AR
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1417" tvg-name="FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORT 1 | AR
+http://tv.masterplaytv.club:8080/5eddfgdWeRdGggr4545D/dfk3445jk45fdfFD45462DDD/141445
+#EXTINF:-1 tvg-id="1417" tvg-name="FOX SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORT 1 | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/75246
+#EXTINF:-1 tvg-id="1417" tvg-name="FOX SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 HD | AR
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3041
+#EXTINF:-1 tvg-id="1361" tvg-name="La Nacion+" tvg-logo="https://i.paste.pics/a8990e8f3817f4ed5762495c1acd96d7.png", La Nacion+ | AR
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1368" tvg-name="TeleJunin" tvg-logo="https://i.paste.pics/8ff2aa6ecce01f17952af1cdc9858919.png", TeleJunin | AR
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1371" tvg-name="TV Universidad" tvg-logo="https://i.paste.pics/30550e433a7082650ea4dd641b156583.png", TV Universidad | AR
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1372" tvg-name="CNN TV" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png", CNN | AR
+http://51.222.249.193:8080/you22/Wp82cV3DsWW9/322836
+#EXTINF:-1 tvg-id="1373" tvg-name="Vorterix" tvg-logo="https://i.paste.pics/b9b18fd6b72ccc8437a43289438b1594.png", Vorterix | AR
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
+http://38.43.140.97:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
+http://170.82.37.21:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", Cinecanal | AR
+http://ultrapremium.cloud:8080/user1161/XyZa5485/112
+#EXTINF:-1 tvg-id="24" tvg-name="SONY CINE" tvg-logo="https://cdn01.cimediacloud.com/cifiles/3a1f7f8539ee4bfca9794ed91a49559b/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zYTFmN2Y4NTM5ZWU0YmZjYTk3OTRlZDkxYTQ5NTU5Yi9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=BKcZwvYYgZsMQkAC7n7ZF5GrEgPiiNa6Cvv-yFZIcqM3DfsfmNwEqZeeGMvmJ7TiluD8WfNw~i3kbDnHgM6I-nrfmRFhEyjXAxgvCRZm1wdP0PTwtI8rg9MHr1Uatl6rfPI56T9jXVGZ~cKcB9xuNCfvU~0aUqxrUmnQvNqxGF8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA", SONY Cine | AR
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 tvg-id="1078" tvg-name="TyC Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN", TyC Sports | AR
+http://tv.masterplaytv.club:8080/5eddfgdWeRdGggr4545D/dfk3445jk45fdfFD45462DDD/2076
+#EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
+http://50.7.66.234:8080/UY2028/816373917/1155814
+#EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
+http://pfsv.io:80/7125938483/5158/108402.ts
+#EXTINF:-1 tvg-id="1003" tvg-name="TNT SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png", TNT SPORT | AR
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO | AR
+http://38.43.140.97:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/186302
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png", HBO | AR
+http://extremeplus.xyz:8080/miarea/VfVbMyh38f/77056
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/815/943/png-clipart-tv-channel-icons-hbo-2-black-mirror-hbo-2-logo.png", HBO2 | AR
+http://38.43.140.97:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO2" tvg-logo="https://e1.pngegg.com/pngimages/815/943/png-clipart-tv-channel-icons-hbo-2-black-mirror-hbo-2-logo.png", HBO2 | AR
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CskEJLmRmK1MGwd9Vnl6PNSw1Zcr-CWwG9veRZquVeJMSbo-s2Eh5xP3I20rDfSFfvS-tJbomijLUPtITmOmYm3fO294ZkaBuOwDFwctHzQUYzJzj5GgKzx4SJJILgB7sgCfHL-mb7weKeA7lnvnz_Q5JW8QqvSZX5nMEjBLL833QobDzbEQY-2m01iuFVe0k1Dwt4VAxo0ghFyywSHIfTXp2VMkK34PJnHuKoj3MkDz2gZ_kTRrNUsQixFBq0T9Hw__6H7Vv51-sONIvrmDn2WF-U-2W8Zb-35WNOBVdSwnn6tl9ajLINDjzTb5D_Ev7JPEf4ZFb3niZi7o6onWWnX1hl0nTOcJQHyg0CH0FBccWcyKfVGZPLb-T2cXBSPWyBQAdnhVlAFZEpWfS5wDMR6AvQowaSl_0MZIxDBRQO2lVM_rCnBpy1vvF_l3pFX7pxHJncTbx2TpvrprNjyka7kiLzUuKy54tKi88PcWYWhscH2m6zrtid7bMH6UslRBHxUZqZ_YM-_lA0asIcqM2cjy6hY5ycGykEq6e2jWngrKdpIPNG1hNoVJ0AngPBHCBr3HLdiJJVWbEtGnOPoxWppJpZK6JmzIhk6_83w_VSa-AZSc6jj2JI7C1U9wNzOY1EtEOnz1869eE-KgxA1_BcDVY2mMhmi85AJ-EQi2l7pMo1jsYydzZwVJtrKVZfw6kYpTG3iwGM8zox-wdBYGGp25oh7wJKKQ1IB31I7lOlaRysZvslKvLC1f0tZ4FViEsXA1mO-x4h2tPwybGgxgXEJGZOcfuDf1Bq0gASoJZXUtd2VzdC0yMIYI.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="HBO XTREME" tvg-logo="https://tigohn.zendesk.com/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png", HBO XTREME | AR
+http://38.43.140.97:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png", Universal Studio | AR
+http://38.43.140.97:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png", Warner Channel | AR
+http://38.43.140.97:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="+ cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png", +cine | AR
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1003" tvg-name="History Channel" tvg-logo="https://w7.pngwing.com/pngs/87/171/png-transparent-history-television-channel-logo-television-show-history-television-angle-rectangle-thumbnail.png", History Channel | AR
+http://38.43.140.97:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png", History Channel | AR
+http://38.43.140.97:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GENESIS TV | AR
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="CNC DIGITAL" tvg-logo="https://play-lh.googleusercontent.com/KPy9GJ0_7TJaq9UxZTTz8zdvzI5NdO71zLO8ZkTifDcLbHGkx4b1OgueDz5z4zGUAr0", CNC DIGITAL | AR
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Teatrix" tvg-logo="https://pbs.twimg.com/profile_images/1697655140616982529/CZjS0-zk_400x400.jpg", Teatrix | AR
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1003" tvg-name="Teatrix" tvg-logo="https://pbs.twimg.com/profile_images/1697655140616982529/CZjS0-zk_400x400.jpg", Teatrix | AR
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+
+
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
